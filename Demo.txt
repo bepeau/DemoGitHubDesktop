@@ -3,3 +3,4 @@ Modification + commit
 Modification différente de mon partenaire
 Modification + conflit
 Test de conflit sur merge de test
+test 2 de conflit sur merge de test
