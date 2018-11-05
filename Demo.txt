@@ -2,3 +2,4 @@ Démonstration de commit
 Modification + commit
 Modification différente de mon partenaire
 Modification + conflit
+Modification + conflit sur merge de test
